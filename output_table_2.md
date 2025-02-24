@@ -1,0 +1,22 @@
+| Start                                                                           | End      | Unnamed: 2                                                                                   | Duration   |
+|:--------------------------------------------------------------------------------|:---------|:---------------------------------------------------------------------------------------------|:-----------|
+| 08:00:00                                                                        | 08:30:00 | Registration                                                                                 | 00:30:00   |
+| 08:30:00                                                                        | 09:30:00 | Keynote: Dr. Krishna Kalyanam, Deputy Director of NASA Aeronautics Research Institute (NARI) | 01:00:00   |
+| 09:30:00                                                                        | 09:50:00 | Coffee Break                                                                                 | 00:20:00   |
+| Technical Session 2 AI in the Sky: The Future of Unmanned and Commercial Flight | nan      | nan                                                                                          | nan        |
+| 09:50:00                                                                        | 10:30:00 | Plenary: Dr. Nick Ernest, Thales                                                             | 00:40:00   |
+| 10:30:00                                                                        | 10:45:00 | Dr. Scott Nykl, AFIT                                                                         | 00:15:00   |
+| 10:45:00                                                                        | 11:00:00 | Dr. Patrick Hester, Mile2, Principal Machine Learning Engineer                               | 00:15:00   |
+| 11:00:00                                                                        | 11:15:00 | Wes Ryan/Steve Cook /Roshawn                                                                 | 00:15:00   |
+| 11:15:00                                                                        | 11:30:00 | Dr. Lorraine Borghetti, AFRL, Human-Machine Co-learning Team                                 | 00:15:00   |
+|                                                                                 |          | Research Lead                                                                                |            |
+| 11:30:00                                                                        | 12:00:00 | Panel Discussion                                                                             | 00:30:00   |
+| 12:00:00                                                                        | 13:00:00 | Lunch and Award Ceremony                                                                     | 01:00:00   |
+| 13:00:00                                                                        | 16:30:00 | Tours                                                                                        | 03:30:00   |
+| nan                                                                             | nan      | NMUSAF                                                                                       | nan        |
+| nan                                                                             | nan      | Wright Brothers National Park and Museum                                                     | nan        |
+| nan                                                                             | nan      | nan                                                                                          | nan        |
+| nan                                                                             | nan      | Carillon Park                                                                                | nan        |
+| nan                                                                             | nan      | nan                                                                                          | nan        |
+| nan                                                                             | nan      | nan                                                                                          | nan        |
+| 17:30:00                                                                        | 20:30:00 | Social - TBD                                                                                 | 03:00:00   |
